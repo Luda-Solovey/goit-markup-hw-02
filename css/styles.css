@@ -113,6 +113,10 @@ body {
     cursor: pointer;
     text-align: center;
 }
+.primary-button:hover,
+.primary-button:focus {
+    background-color:#188ce8;
+}
 
 .primary-title {
     color:var(--white-color);
