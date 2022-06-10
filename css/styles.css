@@ -111,6 +111,7 @@ body {
     font-size: 16px;
     line-height: 30px;
     cursor: pointer;
+    text-align: center;
 }
 
 .primary-title {
@@ -121,6 +122,7 @@ body {
     font-size: 44px;
     line-height: 60px;
     text-transform: uppercase;
+    text-align: center;
 }
 /* Цвет абзацев остальных секций */
 .section .section-title {
