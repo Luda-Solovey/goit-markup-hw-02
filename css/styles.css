@@ -78,7 +78,7 @@ body {
 
 /* Стили кнопок e-mail и телефона  */
 .nav-contacts .contacts-link {
-    color:var(--secondary-text-color);
+    color:var(--primary-text-color);
     font-weight: 500;
     font-size: 14px;
     line-height: 1.1;
